@@ -1,0 +1,44 @@
+head{
+    color:white; 
+  font-size:72px;
+  font-family:serif;
+}
+body{
+  background-color:blue;
+  
+}
+ 
+h3{
+  color:white;
+  font-size:36px;
+  font-family:Times,Serif;
+  
+}
+
+.banner{
+  background-color:red;
+  font-size:48px;
+  color:white;
+  border:.5px;  
+  margin: 10%
+}
+.name{
+  color:white;
+  font-size:64px;
+  font-family:san-serif;
+}
+
+.tagline{
+  font-size:50px
+  color:white;
+}
+
+h2{
+  color:white;
+}
+
+li{
+  color:white;
+  font-family:san-serif;
+  font-size:24px
+}
